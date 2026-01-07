@@ -1,4 +1,5 @@
 ## **Build Your VPC and Launch a Web Server**
+
 ## **Overview**
 
 This lab demonstrates how to build a custom Amazon Virtual Private Cloud (VPC) from scratch, configure public and private subnets, establish internet connectivity via an Internet Gateway (IGW) and NAT Gateway, and deploy a web server on an EC2 instance within the public subnet.
